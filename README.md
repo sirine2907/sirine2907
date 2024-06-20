@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**sirine2907/sirine2907** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm Sirine Ayadi, a Computer Science engineering student at ENET'Com Sfax, and I'm passionate about Flutter.
 
-Here are some ideas to get you started:
+🌱 I’m currently learning: Flutter development .
+👯 I’m looking to collaborate on: Flutter projects and open-source contributions
+🤔 I’m looking for help with: Improving my Flutter skills and understanding complex algorithms
+💬 Ask me about: Flutter development, mobile app design, and anything related to computer science
+📫 How to reach me: Sirineayadi2007@gmail.com
+⚡ Fun fact: I love blending creativity with technology to build innovative applications!
+Feel free to explore my repositories and get in touch! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
