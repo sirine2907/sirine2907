@@ -12,6 +12,7 @@
 
 <a href="https://www.linkedin.com/in/sirine-ayadi-24212a1b2/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2BCg==" alt="LinkedIn" /></a>
 <a href="mailto:sirineayadi2907@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.upwork.com/freelancers/~0111ac5d04d98184e6"><img src="https://img.shields.io/badge/Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" /></a>
 
 </div>
 
@@ -22,7 +23,7 @@
 I'm an engineering graduate in Industrial Computing from **ENET'Com Sfax**. I build production mobile apps with **Flutter**, and I also work as a freelance **AI training-data contributor**: I evaluate and write code-focused training data. I read Dart, Python, JavaScript and TypeScript, I know why an edge case matters, and I explain the reasoning behind each label.
 
 - 📱 **Now:** Flutter Developer at **Servini Solution**, building the SERVINI restaurant–client app with Clean Architecture, BLoC and GraphQL
-- 🤖 **Also:** AI data annotation and model evaluation on Upwork: code and text annotation, RLHF-style response ranking, code review
+- 🤖 **Also:** AI data annotation and model evaluation on [Upwork](https://www.upwork.com/freelancers/~0111ac5d04d98184e6): code and text annotation, RLHF-style response ranking, code review
 - 🔍 **How I work:** when guidelines are unclear or an edge case comes up, I flag it to the client instead of guessing
 - 🗣️ **Languages:** Arabic (native) · French (fluent) · English (professional)
 - 📫 **Open to:** remote Flutter roles and AI training-data / code-evaluation work
@@ -32,7 +33,7 @@ I'm an engineering graduate in Industrial Computing from **ENET'Com Sfax**. I bu
 | Role | Where | When | Highlights |
 | --- | --- | --- | --- |
 | **Flutter Developer** | Servini Solution · Tunisia | Apr 2026 – now | SERVINI restaurant–client app: feature-sliced modules, typed GraphQL queries and mutations, cache-first data layer. I own features end to end, from state modelling to code review |
-| **AI Data Annotation & Model Evaluation** | Freelance (Upwork) · Remote | 2025 – now | Text and code annotation, output quality rating, consistency checks against client guidelines. 100% job completion, no revisions requested |
+| **AI Data Annotation & Model Evaluation** | Freelance ([Upwork](https://www.upwork.com/freelancers/~0111ac5d04d98184e6)) · Remote | 2025 – now | Text and code annotation, output quality rating, consistency checks against client guidelines. 100% job completion, no revisions requested |
 | **Frontend Developer** (final-year internship) | DropWise Technologie · Mahdia | Feb – Jul 2025 | RAYANA smart-irrigation platform: Flutter + Angular frontend, REST APIs and WebSocket real-time telemetry, GetX |
 | **Flutter Developer** | AUTRIS · France (remote) | Jul – Sep 2024 | ATEX equipment reference app: advanced search, offline mode, secured REST integration |
 | **Flutter Developer** | Elite2com · Nabeul | Jun – Aug 2023 | School-management app: secured REST sync, push notifications, MVC, CI/CD with Git |
