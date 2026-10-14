@@ -4,7 +4,7 @@
 
 **Software Engineer: Mobile (Flutter/Dart) & AI Training Data**
 <br/>
-📍 Hammamet, Tunisia (UTC+1) · 🌍 Open to remote work
+📍 Sousse, Tunisia (UTC+1) · 🌍 Open to remote work
 
 <a href="https://github.com/sirine2907">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2DD4BF&center=true&vCenter=true&width=560&lines=Software+Engineer+%C2%B7+Flutter+%26+Dart;Clean+Architecture+%2B+BLoC+%2B+GraphQL;AI+training+data+%26+model+evaluation;Open+to+remote+work+%F0%9F%8C%8D" alt="Typing intro" />
